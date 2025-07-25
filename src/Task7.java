@@ -10,7 +10,7 @@ public class Task7 {
             System.out.println(i);
         }
 
-        // Use if to check the number odd or even
+        // Use if to check the number Odd or Even
 
         System.out.println("This program check if the number you enter is even or odd so please enter number to check");
         Scanner input = new Scanner((System.in));
