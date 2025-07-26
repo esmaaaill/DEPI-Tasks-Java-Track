@@ -36,39 +36,7 @@ Practice and apply software testing methodologies to ensure code quality and cor
 Repository Structure
 The repository is organized into logical directories to make navigation easy. Here's a general overview:
 
-DEPI-Java-Track/
-├── java-tasks/
-│   ├── basic-syntax/
-│   ├── data-structures/
-│   ├── algorithms/
-│   └── ... (other task categories)
-├── oop-problems/
-│   ├── polymorphism-examples/
-│   ├── inheritance-challenges/
-│   ├── abstraction-interfaces/
-│   └── ... (various OOP problem sets)
-├── design-patterns/
-│   ├── creational/
-│   │   ├── singleton/
-│   │   ├── factory-method/
-│   │   └── ...
-│   ├── structural/
-│   │   ├── adapter/
-│   │   ├── decorator/
-│   │   └── ...
-│   ├── behavioral/
-│   │   ├── strategy/
-│   │   ├── observer/
-│   │   └── ...
-│   └── ... (other pattern categories)
-├── software-testing/
-│   ├── unit-testing-examples/
-│   ├── integration-testing-cases/
-│   ├── tdd-exercises/
-│   └── ... (testing-related code)
-├── README.md
-├── .gitignore
-└── pom.xml (if using Maven) / build.gradle (if using Gradle)
+
 Java Tasks
 This section contains solutions to various Java programming tasks encountered during the DEPI program. This may include:
 
