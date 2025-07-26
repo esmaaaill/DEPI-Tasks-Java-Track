@@ -1,5 +1,5 @@
 DEPI Java Track: Tasks, OOP & Design Patterns
-Welcome to my dedicated GitHub repository for the DEPI Program's Java track! This repository is a central hub for all my coding exercises, problem-solving endeavors, and practical applications in Java, with a strong focus on Object-Oriented Programming (OOP) principles and various Design Patterns.
+Welcome to my dedicated GitHub repository for the DEPI Program's Java track! This repository is a central hub for all my coding exercises, problem-solving endeavors, and practical applications in Java, with a strong focus on Object-Oriented Programming (OOP) principles and various Design Patterns in addition to the manual and automation software testing.
 
 Table of Contents
 About This Repository
