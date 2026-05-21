@@ -1,3 +1,5 @@
+package com.depi.portfolio.basics;
+
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
@@ -10,7 +12,7 @@ public class Task8 {
         numbers[2] = 3;
         numbers[3] = 4;
         numbers[4] = 5;
-        numbers[5] = 6;
+        // numbers[5] removed to avoid ArrayIndexOutOfBoundsException;
         Arrays.toString(numbers);
         System.out.println(numbers);
     }

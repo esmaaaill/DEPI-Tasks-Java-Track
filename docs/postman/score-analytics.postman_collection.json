@@ -1,0 +1,27 @@
+{
+  "info": {
+    "name": "DEPI Java Portfolio - Score Analytics",
+    "description": "Sample QA artifact for score analytics endpoint design.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get Score Report",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/api/scores/report?target=92",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "scores", "report"],
+          "query": [
+            {"key": "target", "value": "92"}
+          ]
+        },
+        "description": "Reference request shape for a future REST adapter around ScoreController."
+      }
+    }
+  ]
+}

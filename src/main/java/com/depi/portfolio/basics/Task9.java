@@ -1,3 +1,5 @@
+package com.depi.portfolio.basics;
+
 public class Task9 {
     public static void main(String[] args) {
         int[] scores = {85, 92, 78, 96, 88};
