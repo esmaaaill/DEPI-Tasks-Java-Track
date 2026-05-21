@@ -1,3 +1,5 @@
+package com.depi.portfolio.basics;
+
 import java.util.Scanner;
 
 public class Task5 {

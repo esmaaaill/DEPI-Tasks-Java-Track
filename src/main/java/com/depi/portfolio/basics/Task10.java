@@ -1,3 +1,5 @@
+package com.depi.portfolio.basics;
+
 public class Task10 {
     public static void main(String[] args) {
 
